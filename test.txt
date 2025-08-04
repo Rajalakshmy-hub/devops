@@ -1,1 +1,2 @@
-Hello!! This is my new file in branch 2. I'm making changes to this file to test merge conflict in git. 
+Hello!! This is my final file. I'm making changes to this file to test merge conflict in git. 
+
