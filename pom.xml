@@ -76,7 +76,7 @@
               <executions>
                 <execution>
                   <id>report</id>
-                    <phase>verify</verify>
+                    <phase>verify</phase>
                       <goals>
                         <goal>report</goal>
                       </goals>
